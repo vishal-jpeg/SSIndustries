@@ -1,0 +1,343 @@
+{
+  "Header": {
+    "title": "Impact Auto Systems",
+    "paragraph": "Crafting innovative solutions for automation and precision machining. With over 15 years of experience, we specialize in designing and manufacturing Special Purpose Machines, Injection Moulding & Press Tool Dies, Semi-Automatic Assembly Lines, and more. Let us propel your projects forward with our engineering expertise and commitment to quality."
+  },
+  "About": {
+    "paragraph": "We are a passionate team of professionals dedicated to pushing the boundaries of innovation in the field of automation and machine building. With decades of combined experience, we pride ourselves on our ability to deliver cutting-edge solutions tailored to meet the unique needs of our clients. Our commitment to excellence is evident in every project we undertake, from designing and manufacturing special purpose machines to providing comprehensive automation solutions. At our core, we believe in the power of collaboration and strive to cultivate long-lasting relationships with our clients, built on trust, integrity, and a shared vision for success. Together, we are shaping the future of automation, one innovative solution at a time.",
+    "Why": [
+      "Experienced professionals",
+      "Cutting-edge technology",
+      "Customized solutions",
+      "Exceptional customer service"
+    ],
+    "Why2": [
+      "Strategic partnerships",
+      "Continuous improvement",
+      "Timely project delivery",
+      "Proven track record"
+    ]
+  },
+  
+  "Gallery": [
+    {
+      "title": "Conveyors",
+      "largeImage": "img/portfolio/large image/9.png",
+      "smallImage": "img/portfolio/small image/9.png",
+      "alt":"Conveyors"
+    },
+    {
+      "title": "Automatic HRA Fuse resistance and Ohm Checking",
+      "largeImage": "img/portfolio/large image/10.png",
+      "smallImage": "img/portfolio/small image/10.png",
+      "alt":"Automatic HRA Fuse resistance and Ohm Checking"
+    },
+    {
+      "title": "SPM’s",
+      "largeImage": "img/portfolio/large image/12.png",
+      "smallImage": "img/portfolio/small image/12.png",
+      "alt":"SPM’s"
+    },
+    {
+      "title": "Assembly Parts",
+      "largeImage": "img/portfolio/large image/13.png",
+      "smallImage": "img/portfolio/small image/13.png",
+      "alt":"Assembly Parts"
+    },
+    {
+      "title": "Pick & Place Machines",
+      "largeImage": "img/portfolio/large image/14.png",
+      "smallImage": "img/portfolio/small image/14.png",
+      "alt":"Pick & Place Machines"
+    },
+    {
+      "title": "Electrical Panel Wiring",
+      "largeImage": "img/portfolio/large image/15.png",
+      "smallImage": "img/portfolio/small image/15.png",
+      "alt":"Electrical Panel Wiring"
+    },
+    {
+      "title": "lathe Machine",
+      "largeImage": "img/portfolio/large image/7.png",
+      "smallImage": "img/portfolio/small image/7.png",
+      "alt":"lathe Machine"
+    },
+    {
+      "title": "Surface grinding & boring and  milling machine",
+      "largeImage": "img/portfolio/large image/8.png",
+      "smallImage": "img/portfolio/small image/8.png",
+      "alt":"Surface grinding & boring and  milling machine"
+    },
+    {
+      "title": "Leak Test Rig",
+      "largeImage": "img/portfolio/large image/16.png",
+      "smallImage": "img/portfolio/small image/16.png",
+      "alt":"Leak Test Rig"
+    },
+    {
+      "title": "Bowl Feeder",
+      "largeImage": "img/portfolio/large image/18.png",
+      "smallImage": "img/portfolio/small image/18.png",
+      "alt":"Bowl Feeder"
+    },
+    {
+      "title": "Gap filler machine",
+      "largeImage": "img/portfolio/large image/19.png",
+      "smallImage": "img/portfolio/small image/19.png",
+      "alt":"Gap filler machine"
+    },
+    {
+      "title": "Electrical Assembly Part Loading",
+      "largeImage": "img/portfolio/large image/20.png",
+      "smallImage": "img/portfolio/small image/20.png",
+      "alt":"Electrical Assembly Part Loading"
+    },
+    {
+      "title": "Actuator Robot",
+      "largeImage": "img/portfolio/large image/21.png",
+      "smallImage": "img/portfolio/small image/21.png",
+      "alt":"Actuator Robot"
+    },
+    {
+      "title": "Silencer Parts Plating Bridgestone",
+      "largeImage": "img/portfolio/large image/22.png",
+      "smallImage": "img/portfolio/small image/22.png",
+      "alt":"Silencer Parts Plating Bridgestone"
+    },
+    {
+      "title": "Screw Tightening Jig",
+      "largeImage": "img/portfolio/large image/23.png",
+      "smallImage": "img/portfolio/small image/23.png",
+      "alt":"Screw Tightening Jig"
+    },
+    {
+      "title": "Car Bumping Assembly",
+      "largeImage": "img/portfolio/large image/24.png",
+      "smallImage": "img/portfolio/small image/24.png",
+      "alt":"Car Bumping Assembly"
+    },
+    {
+      "title": "Anabond Swelling Machine",
+      "largeImage": "img/portfolio/large image/25.png",
+      "smallImage": "img/portfolio/small image/25.png",
+      "alt":"Anabond Swelling Machine"
+    },
+    {
+      "title": "Sleeve Assembly Machine",
+      "largeImage": "img/portfolio/large image/26.png",
+      "smallImage": "img/portfolio/small image/26.png",
+      "alt":"Sleeve Assembly Machine"
+    },
+    {
+      "title": "Shaft Run Out Checking",
+      "largeImage": "img/portfolio/large image/27.png",
+      "smallImage": "img/portfolio/small image/27.png",
+      "alt":"Shaft Run Out Checking"
+    },   
+   {
+      "title": "Hoze Assembly & Bearing Pressing Machine",
+      "largeImage": "img/portfolio/large image/28.png",
+      "smallImage": "img/portfolio/small image/28.png",
+      "alt":"Hoze Assembly & Bearing Pressing Machine"
+    },
+    {
+      "title": "Silencer Loading Trolley",
+      "largeImage": "img/portfolio/large image/29.png",
+      "smallImage": "img/portfolio/small image/29.png",
+      "alt":"Silencer Loading Trolley"
+    }
+  ],
+  
+    "Services": [
+      {
+        "icon": "fa fa-cogs floating",
+        "name": "Special Purpose Machines",
+        "text": "15 years' experience in custom special-purpose machine design & build. Click for subcategories.",
+        "description": "Our specialized machines are designed and built to meet specific industrial needs, ensuring efficiency and reliability. We work closely with clients to develop custom solutions that optimize production processes and enhance overall operational efficiency.",
+        "subcategories": [
+          {
+            "title": "Assembly Equipment",
+            "description": "Custom-designed assembly equipment for efficient production processes."
+          },
+          {
+            "title": "Designing",
+            "description": "Expert designing services for special purpose machines and equipment."
+          },
+          {
+            "title": "Auto Loading and Unloading Equipment",
+            "description": "Automated solutions for loading and unloading materials and products."
+          },
+          {
+            "title": "Machine Fixtures and Press Tools",
+            "description": "High-quality fixtures and press tools for precision manufacturing."
+          },
+          {
+            "title": "Test Rigs",
+            "description": "Customized test rigs for quality assurance and product testing."
+          }
+        ]
+      },
+      {
+        "icon": "fa fa-cube floating",
+        "name": "Electrical Panel Wiring",
+        "text": "Our electrical panel wiring services ensure optimal functionality and safety for your machinery.",
+        "description": "We provide meticulous electrical panel wiring services that adhere to industry standards, ensuring safety and reliability. Our expertise includes designing and installing panel wiring solutions tailored to various industrial applications, ensuring seamless integration and long-term performance."
+      },
+      {
+        "icon": "fa fa-gears floating",
+        "name": "PLC Programming",
+        "text": "We offer comprehensive PLC programming solutions for all types of automation systems.",
+        "description": "Our PLC programming solutions cover a wide range of automation needs, ensuring seamless integration and operational efficiency. We specialize in developing custom PLC programs that enhance automation processes, improve productivity, and reduce downtime across diverse industrial sectors."
+      },
+      {
+        "icon": "fa fa-wrench floating",
+        "name": "Machine Tools & Accessories",
+        "text": "We design and manufacture high-quality machine tools and accessories for various industries.",
+        "description": "We specialize in the design and manufacturing of precision machine tools and accessories tailored to industry-specific requirements. Our solutions include the development of cutting-edge tools that optimize manufacturing processes, improve product quality, and reduce production costs."
+      },
+      {
+        "icon": "fa fa-users floating",
+        "name": "Conveyors & Material Handling",
+        "text": "Our conveyor and material handling systems ensure smooth and efficient operations.",
+        "description": "Our conveyor and material handling systems are designed to optimize workflow efficiency and ensure reliable operation in various industrial settings. We provide turnkey solutions that include the design, installation, and maintenance of conveyors and handling systems tailored to specific industry needs."
+      },
+      {
+        "icon": "fa fa-flask floating",
+        "name": "Cost Effective Automation Products",
+        "text": "We offer a range of cost-effective automation products. Click for subcategories.",
+        "description": "We provide a wide range of cost-effective automation products to enhance your operations and improve efficiency.",
+        "subcategories": [
+          {
+            "title": "PLC, HMI, Servo",
+            "description": "Affordable PLC, HMI, and servo solutions for industrial automation."
+          },
+          {
+            "title": "Safety Light Curtain",
+            "description": "Cost-effective safety light curtains for machine and personnel protection."
+          },
+          {
+            "title": "Current and Voltage Transducer",
+            "description": "Reliable current and voltage transducers for accurate measurements."
+          },
+          {
+            "title": "Relay Logic Type",
+            "description": "Efficient relay logic solutions for simple control applications."
+          },
+          {
+            "title": "Magnetic Read Sensor",
+            "description": "Affordable magnetic read sensors for position and speed detection."
+          },
+          {
+            "title": "AC Motor and Stepper Motor",
+            "description": "Cost-effective AC and stepper motors for various industrial applications."
+          },
+          {
+            "title": "LVDT, SMPS",
+            "description": "Affordable LVDT and SMPS solutions for measurement and power supply needs."
+          },
+          {
+            "title": "Timers, Counters, Sensors",
+            "description": "Cost-effective timers, counters, and sensors for process control and monitoring."
+          },
+          {
+            "title": "All Pneumatic and Hydraulic Cylinder (Valve Fitting)",
+            "description": "Affordable pneumatic and hydraulic cylinders with valve fittings."
+          },
+          {
+            "title": "Greasing Unit",
+            "description": "Cost-effective greasing units for proper lubrication of machinery."
+          }
+        ]
+      }
+    ],
+  "Testimonials": [
+    {
+      "img": "img/logos/1.png"
+    },
+    {
+      "img": "img/logos/2.png"
+    },
+    {
+      "img": "img/logos/3.png"
+    },
+    {
+      "img": "img/logos/4.png"
+
+    },
+    {
+      "img": "img/logos/5.png"
+    },
+    {
+      "img": "img/logos/6.png"
+    },
+    {
+      "img": "img/logos/7.png"
+    },
+    {
+      "img": "img/logos/8.png"
+    },
+    {
+      "img": "img/logos/9.png"
+    },
+    {
+      "img": "img/logos/10.png"
+    },
+    {
+      "img": "img/logos/11.png"
+    },
+    {
+      "img": "img/logos/12.png"
+    },
+    {
+      "img": "img/logos/13.png"
+    },
+    {
+      "img": "img/logos/14.png"
+    },
+    {
+      "img": "img/logos/15.png"
+    },
+    {
+      "img": "img/logos/16.png"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/user.png",
+      "name": "M.Palanivel",
+      "job": "Founder",
+      "description": "Palanivel started his career at TVS Wabco in 2009, then worked as an SPM Project Engineer at Dynamic Techno System from 2010 to 2018. In 2019, he founded Impact Auto Components, which has efficiently supplied all OEMs for six years under his leadership.",
+      "alt" : "M.Palanivel Founder of Impact auto components"
+    }
+  ],
+  "Contact": {
+    "address": "21E,Chennai Bypass Road, Tass Industrial Estate, Sidco Industrial Estate, Ambattur, Chennai - 600058",
+    "phone": "+91 8939424505",
+    "email": "impautosys@yahoo.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    { 
+      "icon": "fa fa-cogs floating",
+      "title": "Special Machines",
+      "text": "Custom-built machinery designed to meet  production requirements."
+    },
+    {
+      "icon": "fa fa-cube floating",
+      "title": "Injection Moulding",
+      "text": "Precision moulds and dies for creating high-quality plastic components."
+    },
+    {
+      "icon": "fa fa-wrench floating",
+      "title": "Assembly Lines",
+      "text": "Semi-automatic systems for efficient and scalable product assembly."
+    },
+    {
+      "icon": "fa fa-flask floating",
+      "title": "Automation Solutions",
+      "text": "Advanced PLC programming and robotic integration."
+    }
+  ]
+}

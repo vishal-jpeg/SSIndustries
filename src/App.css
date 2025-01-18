@@ -1,0 +1,62 @@
+@media screen and (max-width: 600px) {
+  body{
+    width: 100% !important;
+  }
+  #menu{
+    width: 100%;
+    box-sizing: border-box; /* Includes padding and border in the element's total width and height */
+  }
+  #menu .container
+  {
+    width: 87%;
+    padding: 0%;
+    margin-left:4% ;
+    margin-right: 0%;
+  }
+  .navbar{
+    width: auto;
+  }
+  #page-top{
+    width: 100%;
+  }
+  #root{
+    width: 100%;
+  }
+  #header{
+    width: 100%;
+  }
+  .intro h1{
+    font-size: 50px!important;
+  }
+  .intro p{
+    font-size: 15px;
+  }
+  .btn-custom{
+    margin-bottom: 10px;
+  }
+  #features {
+    padding: 20px;
+    width: 100%;
+  }
+  #header,
+  #pom,
+  #about,
+  #services,
+  #testimonials,
+  #team,
+  #contact,
+  #footer {
+    width: 100%;
+  }
+
+  #portfolio {
+    width: 100%;
+  }
+  .portfolio-items{
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+  .sm-mb-2{
+    margin-bottom: 10%;
+  }
+}
