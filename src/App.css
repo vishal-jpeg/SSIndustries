@@ -1,20 +1,9 @@
-@media screen and (max-width: 600px) {
+  @media screen and (max-width: 600px) {
   body{
     width: 100% !important;
   }
   #menu{
     width: 100%;
-    box-sizing: border-box; /* Includes padding and border in the element's total width and height */
-  }
-  #menu .container
-  {
-    width: 87%;
-    padding: 0%;
-    margin-left:4% ;
-    margin-right: 0%;
-  }
-  .navbar{
-    width: auto;
   }
   #page-top{
     width: 100%;
@@ -43,7 +32,6 @@
   #about,
   #services,
   #testimonials,
-  #team,
   #contact,
   #footer {
     width: 100%;
@@ -59,4 +47,14 @@
   .sm-mb-2{
     margin-bottom: 10%;
   }
-}
+  .team .caption .description p {
+    font-size: 8px;
+  }
+  .team .caption h4 {
+    font-size: 18px;
+  }
+
+}  
+
+
+

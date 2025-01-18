@@ -18,12 +18,10 @@ export const Navigation = (props) => {
             <span className="icon-bar"></span>{" "}
             <span className="icon-bar"></span>{" "}
           </button>
-          <div className="disp-flex">
-          <img src={Logo} className="me-1 navbar-logo " alt="logo" ></img>
           <a className="navbar-brand page-scroll" href="#page-top">
-            Impact Auto Systems
+            SS Industries
           </a>
-          </div>{" "}
+          {" "}
         </div>
 
         <div

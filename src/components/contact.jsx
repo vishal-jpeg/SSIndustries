@@ -36,7 +36,7 @@ export const Contact = (props) => {
     {/* replace below with your own Service ID, Template ID and Public Key from your EmailJS account */ }
 
     emailjs
-      .sendForm("service_6yueya9", "template_jyj23v2", e.target, "H2ZK5Po6-tyXKooF3")
+      .sendForm("service_dqli8ws", "template_7m411ia", e.target, "6QX2TFgJyAsQy48yj")
       .then(
         (result) => {
           console.log(result.text);
@@ -120,15 +120,14 @@ export const Contact = (props) => {
                 <span>
                   <i className="fa fa-map-marker floating"></i> Address
                 </span>
-                <a href="https://maps.app.goo.gl/LQsXtbQyfk7VmNCz5" >{props.data ? props.data.address : "loading"}</a>
-              </p>
+                <a href="https://maps.app.goo.gl/nrMzJsDW6HctfFqA8" target="_blank" rel="noopener noreferrer"> {props.data ? props.data.address : "loading"} </a>              </p>
             </div>
             <div className="contact-item feature-card">
               <p>
                 <span>
                   <i className="fa fa-phone floating"></i> Phone
                 </span>{" "}
-                <a href="tel:+918939424505">{props.data ? props.data.phone : "loading"}</a>
+                <a href="tel:+919710043805" target="_blank" rel="noopener noreferrer">{props.data ? props.data.phone : "loading"}</a>
               </p>
             </div>
             <div className="contact-item feature-card">
@@ -136,7 +135,7 @@ export const Contact = (props) => {
                 <span>
                   <i className="fa fa-whatsapp floating"></i> Phone
                 </span>{" "}
-                <a href="https://wa.me/+918939424505">{props.data ? props.data.phone : "loading"}</a>
+                <a href="https://wa.me/+919710043805" target="_blank" rel="noopener noreferrer">{props.data ? props.data.phone : "loading"}</a>
               </p>
             </div>
             <div className="contact-item feature-card">
@@ -144,7 +143,7 @@ export const Contact = (props) => {
                 <span>
                   <i className="fa fa-envelope-o floating"></i> Email
                 </span>{" "}
-                <a href="mailto:impautosys@yahoo.com">{props.data ? props.data.email : "loading"}</a>
+                <a href="mailto:info@ssindusindia.com" target="_blank" rel="noopener noreferrer">{props.data ? props.data.email : "loading"}</a>
               </p>
             </div>
           </div>

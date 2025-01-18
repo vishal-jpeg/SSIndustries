@@ -1,150 +1,133 @@
 {
   "Header": {
-    "title": "Impact Auto Systems",
-    "paragraph": "Crafting innovative solutions for automation and precision machining. With over 15 years of experience, we specialize in designing and manufacturing Special Purpose Machines, Injection Moulding & Press Tool Dies, Semi-Automatic Assembly Lines, and more. Let us propel your projects forward with our engineering expertise and commitment to quality."
+    "title": "SS Industries",
+    "paragraph": "Empowering innovation through automation and precision engineering. With 15+ years of expertise, we excel in crafting Special Purpose Machines, Injection Molding & Press Tool Dies, and Semi-Automatic Assembly Lines. Partner with us for cutting-edge solutions designed to elevate your projects and ensure unmatched quality."
   },
   "About": {
-    "paragraph": "We are a passionate team of professionals dedicated to pushing the boundaries of innovation in the field of automation and machine building. With decades of combined experience, we pride ourselves on our ability to deliver cutting-edge solutions tailored to meet the unique needs of our clients. Our commitment to excellence is evident in every project we undertake, from designing and manufacturing special purpose machines to providing comprehensive automation solutions. At our core, we believe in the power of collaboration and strive to cultivate long-lasting relationships with our clients, built on trust, integrity, and a shared vision for success. Together, we are shaping the future of automation, one innovative solution at a time.",
+    "paragraph": "At SS Industries, we are a dedicated team of visionaries transforming automation and machine-building with innovative precision. Backed by decades of expertise, we specialize in delivering bespoke solutions that cater to our clients' unique requirements. From crafting special-purpose machines to providing end-to-end automation systems, our unwavering commitment to quality and innovation drives every project we undertake. We believe in building partnerships founded on trust, integrity, and a shared ambition for success. Together, let’s redefine possibilities and pioneer the future of automation.",
     "Why": [
-      "Experienced professionals",
-      "Cutting-edge technology",
-      "Customized solutions",
-      "Exceptional customer service"
+      "Expert craftsmanship",
+      "Innovative technologies",
+      "Tailored solutions",
+      "Unmatched client support"
     ],
     "Why2": [
-      "Strategic partnerships",
-      "Continuous improvement",
-      "Timely project delivery",
-      "Proven track record"
+      "Trusted collaborations",
+      "Relentless improvement",
+      "On-time delivery",
+      "Proven excellence"
     ]
   },
+
   
   "Gallery": [
     {
-      "title": "Conveyors",
-      "largeImage": "img/portfolio/large image/9.png",
-      "smallImage": "img/portfolio/small image/9.png",
-      "alt":"Conveyors"
+      "title": "Poka Yoke",
+      "largeImage": "img/portfolio/large image/2.png",
+      "smallImage": "img/portfolio/small image/2.png",
+      "alt":"Poka Yoke"
     },
     {
-      "title": "Automatic HRA Fuse resistance and Ohm Checking",
-      "largeImage": "img/portfolio/large image/10.png",
-      "smallImage": "img/portfolio/small image/10.png",
-      "alt":"Automatic HRA Fuse resistance and Ohm Checking"
+      "title": "Poka Yoke",
+      "largeImage": "img/portfolio/large image/3.png",
+      "smallImage": "img/portfolio/small image/3.png",
+      "alt":"Poka Yoke"
     },
     {
-      "title": "SPM’s",
-      "largeImage": "img/portfolio/large image/12.png",
-      "smallImage": "img/portfolio/small image/12.png",
-      "alt":"SPM’s"
+      "title": "Poka Yoke",
+      "largeImage": "img/portfolio/large image/4.png",
+      "smallImage": "img/portfolio/small image/4.png",
+      "alt":"Poka Yoke"
     },
     {
-      "title": "Assembly Parts",
-      "largeImage": "img/portfolio/large image/13.png",
-      "smallImage": "img/portfolio/small image/13.png",
-      "alt":"Assembly Parts"
-    },
-    {
-      "title": "Pick & Place Machines",
-      "largeImage": "img/portfolio/large image/14.png",
-      "smallImage": "img/portfolio/small image/14.png",
-      "alt":"Pick & Place Machines"
-    },
-    {
-      "title": "Electrical Panel Wiring",
-      "largeImage": "img/portfolio/large image/15.png",
-      "smallImage": "img/portfolio/small image/15.png",
-      "alt":"Electrical Panel Wiring"
-    },
-    {
-      "title": "lathe Machine",
-      "largeImage": "img/portfolio/large image/7.png",
-      "smallImage": "img/portfolio/small image/7.png",
-      "alt":"lathe Machine"
-    },
-    {
-      "title": "Surface grinding & boring and  milling machine",
+      "title": "Poka Yoke",
       "largeImage": "img/portfolio/large image/8.png",
       "smallImage": "img/portfolio/small image/8.png",
-      "alt":"Surface grinding & boring and  milling machine"
+      "alt":"Poka Yoke"
     },
     {
-      "title": "Leak Test Rig",
+      "title": "Poka Yoke",
+      "largeImage": "img/portfolio/large image/9.png",
+      "smallImage": "img/portfolio/small image/9.png",
+      "alt":"Poka Yoke"
+    },
+    {
+      "title": "Poka Yoke",
+      "largeImage": "img/portfolio/large image/11.png",
+      "smallImage": "img/portfolio/small image/11.png",
+      "alt":"Poka Yoke"
+    },
+    {
+      "title": "Poka Yoke",
+      "largeImage": "img/portfolio/large image/12.png",
+      "smallImage": "img/portfolio/small image/12.png",
+      "alt":"Poka Yoke"
+    },
+    {
+      "title": "Poka Yoke",
+      "largeImage": "img/portfolio/large image/13.png",
+      "smallImage": "img/portfolio/small image/13.png",
+      "alt":"Poka Yoke"
+    },
+    {
+      "title": "Poka Yoke",
+      "largeImage": "img/portfolio/large image/14.png",
+      "smallImage": "img/portfolio/small image/14.png",
+      "alt":"Poka Yoke"
+    },
+    {
+      "title": "Poka Yoke",
+      "largeImage": "img/portfolio/large image/15.png",
+      "smallImage": "img/portfolio/small image/15.png",
+      "alt":"Poka Yoke"
+    },
+    {
+      "title": "Poka Yoke",
       "largeImage": "img/portfolio/large image/16.png",
       "smallImage": "img/portfolio/small image/16.png",
-      "alt":"Leak Test Rig"
+      "alt":"Poka Yoke"
     },
     {
-      "title": "Bowl Feeder",
+      "title": "Poka Yoke",
+      "largeImage": "img/portfolio/large image/10.png",
+      "smallImage": "img/portfolio/small image/10.png",
+      "alt":"Poka Yoke"
+    },
+    {
+      "title": "Poka Yoke",
+      "largeImage": "img/portfolio/large image/17.png",
+      "smallImage": "img/portfolio/small image/17.png",
+      "alt":"Poka Yoke"
+    },
+    {
+      "title": "Poka Yoke",
       "largeImage": "img/portfolio/large image/18.png",
       "smallImage": "img/portfolio/small image/18.png",
-      "alt":"Bowl Feeder"
+      "alt":"Poka Yoke"
     },
     {
-      "title": "Gap filler machine",
-      "largeImage": "img/portfolio/large image/19.png",
-      "smallImage": "img/portfolio/small image/19.png",
-      "alt":"Gap filler machine"
+      "title": "Poka Yoke",
+      "largeImage": "img/portfolio/large image/5.png",
+      "smallImage": "img/portfolio/small image/5.png",
+      "alt":"Poka Yoke"
     },
     {
-      "title": "Electrical Assembly Part Loading",
-      "largeImage": "img/portfolio/large image/20.png",
-      "smallImage": "img/portfolio/small image/20.png",
-      "alt":"Electrical Assembly Part Loading"
+      "title": "Poka Yoke",
+      "largeImage": "img/portfolio/large image/6.png",
+      "smallImage": "img/portfolio/small image/6.png",
+      "alt":"Poka Yoke"
     },
     {
-      "title": "Actuator Robot",
-      "largeImage": "img/portfolio/large image/21.png",
-      "smallImage": "img/portfolio/small image/21.png",
-      "alt":"Actuator Robot"
+      "title": "Poka Yoke",
+      "largeImage": "img/portfolio/large image/7.png",
+      "smallImage": "img/portfolio/small image/7.png",
+      "alt":"Poka Yoke"
     },
-    {
-      "title": "Silencer Parts Plating Bridgestone",
-      "largeImage": "img/portfolio/large image/22.png",
-      "smallImage": "img/portfolio/small image/22.png",
-      "alt":"Silencer Parts Plating Bridgestone"
-    },
-    {
-      "title": "Screw Tightening Jig",
-      "largeImage": "img/portfolio/large image/23.png",
-      "smallImage": "img/portfolio/small image/23.png",
-      "alt":"Screw Tightening Jig"
-    },
-    {
-      "title": "Car Bumping Assembly",
-      "largeImage": "img/portfolio/large image/24.png",
-      "smallImage": "img/portfolio/small image/24.png",
-      "alt":"Car Bumping Assembly"
-    },
-    {
-      "title": "Anabond Swelling Machine",
-      "largeImage": "img/portfolio/large image/25.png",
-      "smallImage": "img/portfolio/small image/25.png",
-      "alt":"Anabond Swelling Machine"
-    },
-    {
-      "title": "Sleeve Assembly Machine",
-      "largeImage": "img/portfolio/large image/26.png",
-      "smallImage": "img/portfolio/small image/26.png",
-      "alt":"Sleeve Assembly Machine"
-    },
-    {
-      "title": "Shaft Run Out Checking",
-      "largeImage": "img/portfolio/large image/27.png",
-      "smallImage": "img/portfolio/small image/27.png",
-      "alt":"Shaft Run Out Checking"
-    },   
-   {
-      "title": "Hoze Assembly & Bearing Pressing Machine",
-      "largeImage": "img/portfolio/large image/28.png",
-      "smallImage": "img/portfolio/small image/28.png",
-      "alt":"Hoze Assembly & Bearing Pressing Machine"
-    },
-    {
-      "title": "Silencer Loading Trolley",
-      "largeImage": "img/portfolio/large image/29.png",
-      "smallImage": "img/portfolio/small image/29.png",
-      "alt":"Silencer Loading Trolley"
+     {
+      "title": "Poka Yoke",
+      "largeImage": "img/portfolio/large image/1.png",
+      "smallImage": "img/portfolio/small image/1.png",
+      "alt":"Poka Yoke"
     }
   ],
   
@@ -275,69 +258,52 @@
     },
     {
       "img": "img/logos/8.png"
-    },
-    {
-      "img": "img/logos/9.png"
-    },
-    {
-      "img": "img/logos/10.png"
-    },
-    {
-      "img": "img/logos/11.png"
-    },
-    {
-      "img": "img/logos/12.png"
-    },
-    {
-      "img": "img/logos/13.png"
-    },
-    {
-      "img": "img/logos/14.png"
-    },
-    {
-      "img": "img/logos/15.png"
-    },
-    {
-      "img": "img/logos/16.png"
     }
   ],
   "Team": [
     {
       "img": "img/team/user.png",
-      "name": "M.Palanivel",
-      "job": "Founder",
-      "description": "Palanivel started his career at TVS Wabco in 2009, then worked as an SPM Project Engineer at Dynamic Techno System from 2010 to 2018. In 2019, he founded Impact Auto Components, which has efficiently supplied all OEMs for six years under his leadership.",
-      "alt" : "M.Palanivel Founder of Impact auto components"
+      "name": "D.Thirumurthy",
+      "job": "Proprietor",
+      "description": "Thirumurthy, Proprietor/ Managing Director, leads with a vision for innovation and excellence. With extensive experience in the manufacturing industry, he drives the company's strategic direction and ensures the highest standards of quality and client satisfaction.",
+      "alt" : "D. Thirumurthy, Proprietor/ Managing Director of SS Industries"
+    },
+    {
+      "img": "img/team/user.png",
+      "name": "Dinesh Kumar",
+      "job": "Marketing Manager",
+      "description": "Dinesh Kumar, our Marketing Manager, plays a key role in overseeing operations and strategic initiatives. With a strong background manufacturing. he in ensures smooth execution of projects and fosters innovation to meet client needs.",
+      "alt" : "Dinesh Kumar, Marketing Manager of SS Industries"
     }
   ],
   "Contact": {
-    "address": "21E,Chennai Bypass Road, Tass Industrial Estate, Sidco Industrial Estate, Ambattur, Chennai - 600058",
-    "phone": "+91 8939424505",
-    "email": "impautosys@yahoo.com",
+    "address": "T-121 C, Sidco Women’s Industrial Estate, Kattur, Chennai- 600 062",
+    "phone": "+91 9710043805",
+    "email": "info@ssindusindia.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
   },
-  "Features": [
-    { 
-      "icon": "fa fa-cogs floating",
-      "title": "Special Machines",
-      "text": "Custom-built machinery designed to meet  production requirements."
-    },
-    {
-      "icon": "fa fa-cube floating",
-      "title": "Injection Moulding",
-      "text": "Precision moulds and dies for creating high-quality plastic components."
-    },
-    {
-      "icon": "fa fa-wrench floating",
-      "title": "Assembly Lines",
-      "text": "Semi-automatic systems for efficient and scalable product assembly."
-    },
-    {
-      "icon": "fa fa-flask floating",
-      "title": "Automation Solutions",
-      "text": "Advanced PLC programming and robotic integration."
-    }
+ "Features": [
+  { 
+    "icon": "fa fa-cogs floating",
+    "title": "Specialized Machinery",
+    "text": "Tailor-made machines engineered to optimize production efficiency."
+  },
+  {
+    "icon": "fa fa-cube floating",
+    "title": "Injection Molding",
+    "text": "High-precision molds for producing superior-quality plastic components."
+  },
+  {
+    "icon": "fa fa-wrench floating",
+    "title": "Assembly Systems",
+    "text": "Custom semi-automatic lines for seamless and scalable assembly processes."
+  },
+  {
+    "icon": "fa fa-flask floating",
+    "title": "Smart Automation",
+    "text": "Cutting-edge PLC programming and robotics for enhanced manufacturing."
+  }
   ]
 }
